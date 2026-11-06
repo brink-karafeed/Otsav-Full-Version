@@ -235,4 +235,4 @@ This repository serves as the official landing page for OtsAV. The software is d
 **Get the most recent version of OtsAV today!**
 
 ---
-**Last updated:** 2026-11-06 08:39:31 UTC
+**Last updated:** 2026-11-06 16:24:25 UTC
